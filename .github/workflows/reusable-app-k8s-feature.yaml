@@ -1,5 +1,3 @@
-name: Feature Branch
-
 on:
   workflow_call:
 
