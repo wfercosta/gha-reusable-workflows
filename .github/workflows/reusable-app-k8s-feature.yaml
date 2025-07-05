@@ -1,9 +1,7 @@
 name: Feature Branch
 
 on:
-  push:
-    branches:
-      - "feature/**"
+  workflow_call:
 
 jobs:
   build:
